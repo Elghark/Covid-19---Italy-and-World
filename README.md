@@ -3,6 +3,7 @@ A visual and data analysis of Covid 19 spread with a focus on Italy
 
 
 ------INTRODUCTION------
+
 VERY IMPORTANT: Interactive plots may not be rendered on github. No problem, download all files on your pc and then run on jupyter
 
 The main file is 'Covid 19- Italy & World' jupyter file.
